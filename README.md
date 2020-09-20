@@ -21,3 +21,4 @@ Steps of debuging file:
 if you have any problem with script please contact me any of this methods:
 
 - emailAddress: `shafiee.mohamin@gmail.com`
+- <a href='https://github.com/shamohamin/Assembly-Debuger/issues'> Issues</a>
